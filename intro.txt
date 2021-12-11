@@ -1,0 +1,3 @@
+Hello World 
+This is my baby step to learn more about the git 
+So far I have learnt that you can just create a git for tracking the changes in your projects
